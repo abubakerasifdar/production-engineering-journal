@@ -387,7 +387,7 @@ Across all 6 case studies, these patterns held true:
 ## Contact
 
 - GitHub: [@abubakerasifdar](https://github.com/abubakerasifdar)
-- LinkedIn: [linkedin.com/in/abubaker-asif-dar]((https://www.linkedin.com/in/abubaker-asif-dar/))
+- LinkedIn: [linkedin.com/in/abubaker-asif-dar](https://www.linkedin.com/in/abubaker-asif-dar/))
 - Email: abubakerasifdar100@gmail.com
 
 ---
