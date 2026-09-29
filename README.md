@@ -38,8 +38,10 @@ This journal is my public proof: what I built, why I built it that way, what bro
 | Production failures fixed | 40+ |
 | Deploy time reduction | 78% (2800s → 600s) |
 | Frontend LOC reduction | 83% (1800 → 300) |
-| Developers trained on CI/CD | 4+ |
-| Contributions (last 12 months, private repos) | 603 |
+| Developers trained on CI/CD | Multiple |
+| Contributions (last 12 months, private repos) | 600+ |
+
+*All metrics describe architecture, decisions, and outcomes only. No company names, product names, client names, or proprietary code are included.*
 
 ---
 
@@ -106,7 +108,7 @@ Added deployment documentation so any developer could use the pipeline.
 - Deployments became one-click (or auto on merge to main)
 - Health checks catch broken deploys before they reach users
 - Auto-rollback eliminated manual panic during bad releases
-- **Trained 4+ developers** on how to use the pipeline
+- **Trained multiple developers** on how to use the pipeline
 - Same pipeline template rolled out to **6 products**
 
 ## What I'd Do Differently
@@ -387,7 +389,7 @@ Across all 6 case studies, these patterns held true:
 ## Contact
 
 - GitHub: [@abubakerasifdar](https://github.com/abubakerasifdar)
-- LinkedIn: [linkedin.com/in/abubaker-asif-dar](https://www.linkedin.com/in/abubaker-asif-dar/)
+- LinkedIn: [linkedin.com/in/abubaker-asif-dar](https://linkedin.com/in/abubaker-asif-dar)
 - Email: abubakerasifdar100@gmail.com
 
 ---
